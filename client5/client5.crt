@@ -1,0 +1,96 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 6 (0x6)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=MX, ST=MX, L=CDMX, O=MINOIR, OU=MINOIR, CN=MINOIR CA/name=EasyRSA/emailAddress=oamo19@gmail.com
+        Validity
+            Not Before: May 21 02:01:27 2017 GMT
+            Not After : May 19 02:01:27 2027 GMT
+        Subject: C=MX, ST=MX, L=CDMX, O=MINOIR, OU=MINOIR, CN=client5/name=EasyRSA/emailAddress=oamo19@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:cc:55:67:83:d8:a3:80:35:02:96:86:9d:ab:5f:
+                    b6:6a:da:24:2a:91:78:23:bb:7b:a3:4f:dc:99:18:
+                    56:3c:71:b1:d9:f5:4f:9b:4d:6f:27:25:c0:4d:b9:
+                    45:bc:fe:db:ba:4f:79:00:d3:2a:bb:fa:fb:e4:28:
+                    80:8a:1a:96:b9:0a:21:11:fb:f9:66:2d:67:43:47:
+                    19:12:ee:f4:c6:f5:20:8b:a2:34:80:1a:e7:dc:7b:
+                    a4:6e:3e:61:a6:67:0b:ce:29:13:64:2f:1d:5c:b8:
+                    41:05:ea:fc:18:5f:56:8c:d5:38:ae:59:9a:22:ae:
+                    1f:ec:40:77:05:29:dd:70:a6:05:99:78:8f:52:b2:
+                    a1:26:28:3e:4d:7a:47:d7:ed:34:a4:55:9c:6e:f5:
+                    c6:d2:3d:1b:b1:40:a8:55:b9:0d:8b:20:b9:b0:95:
+                    7d:61:93:8a:17:48:ce:4c:9b:d9:80:e8:05:bb:9d:
+                    2b:54:5c:50:db:d3:5d:b6:cc:11:39:ca:d2:4a:82:
+                    6b:a1:1f:6c:af:76:1b:34:a9:ea:76:85:70:4c:e5:
+                    11:fa:66:91:eb:62:2d:eb:11:55:17:78:cb:84:7b:
+                    42:b3:2d:f3:c1:84:e7:f1:1c:8c:25:38:2f:87:5c:
+                    d6:aa:7f:c6:ba:c2:8d:ce:70:25:d9:92:90:bf:bf:
+                    41:3b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                A5:30:4D:EA:AA:03:A5:0B:49:F2:1D:EB:FF:AF:15:51:21:87:CD:7A
+            X509v3 Authority Key Identifier: 
+                keyid:62:92:96:C4:EA:AF:DC:D8:15:24:58:A1:36:7A:C4:F0:BF:B5:67:3F
+                DirName:/C=MX/ST=MX/L=CDMX/O=MINOIR/OU=MINOIR/CN=MINOIR CA/name=EasyRSA/emailAddress=oamo19@gmail.com
+                serial:9A:9D:93:1F:48:D2:15:0D
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Subject Alternative Name: 
+                DNS:client5
+    Signature Algorithm: sha256WithRSAEncryption
+         03:90:39:66:2f:b6:4b:6c:de:f2:18:03:e0:b7:04:85:c9:44:
+         7b:a7:5a:ef:fe:fc:71:b7:e0:c8:56:c7:6d:83:e0:36:39:fa:
+         4f:fb:b9:95:37:76:13:56:5a:77:83:9c:2e:cb:10:bb:40:b1:
+         0d:5d:40:ea:b1:9c:8e:82:d3:bb:9f:00:52:01:b8:0d:2a:e1:
+         07:30:a7:b2:ba:62:43:10:1f:67:e4:85:6b:03:35:93:89:32:
+         e1:a3:ab:10:f1:e0:3e:ec:9d:b6:e9:62:d6:69:b0:7f:4c:ab:
+         43:d0:60:a7:32:3c:66:81:85:e5:f1:0d:f6:db:3c:11:a4:d5:
+         90:10:49:ee:6a:da:a4:fa:9a:93:9e:91:de:ba:60:b8:8e:b7:
+         8d:0a:44:67:3d:f5:69:18:66:af:3a:56:22:21:8f:d3:0b:9b:
+         88:e7:c1:da:f5:2e:21:df:f8:1d:c4:7b:06:5d:37:bd:ad:ef:
+         ba:93:c1:f0:7a:be:6d:8d:bf:8a:5f:2b:78:c5:1e:b2:c3:41:
+         05:44:7c:db:7f:e6:3f:06:11:9e:43:fb:02:45:63:45:6a:19:
+         1d:9d:60:76:60:86:d0:77:dc:a8:55:2e:2b:d0:2d:7b:54:d7:
+         02:8c:51:90:6a:e2:66:11:c5:6b:52:4b:a2:74:3c:02:1c:01:
+         ec:29:f6:28
+-----BEGIN CERTIFICATE-----
+MIIE/jCCA+agAwIBAgIBBjANBgkqhkiG9w0BAQsFADCBkjELMAkGA1UEBhMCTVgx
+CzAJBgNVBAgTAk1YMQ0wCwYDVQQHEwRDRE1YMQ8wDQYDVQQKEwZNSU5PSVIxDzAN
+BgNVBAsTBk1JTk9JUjESMBAGA1UEAxMJTUlOT0lSIENBMRAwDgYDVQQpEwdFYXN5
+UlNBMR8wHQYJKoZIhvcNAQkBFhBvYW1vMTlAZ21haWwuY29tMB4XDTE3MDUyMTAy
+MDEyN1oXDTI3MDUxOTAyMDEyN1owgZAxCzAJBgNVBAYTAk1YMQswCQYDVQQIEwJN
+WDENMAsGA1UEBxMEQ0RNWDEPMA0GA1UEChMGTUlOT0lSMQ8wDQYDVQQLEwZNSU5P
+SVIxEDAOBgNVBAMTB2NsaWVudDUxEDAOBgNVBCkTB0Vhc3lSU0ExHzAdBgkqhkiG
+9w0BCQEWEG9hbW8xOUBnbWFpbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDMVWeD2KOANQKWhp2rX7Zq2iQqkXgju3ujT9yZGFY8cbHZ9U+bTW8n
+JcBNuUW8/tu6T3kA0yq7+vvkKICKGpa5CiER+/lmLWdDRxkS7vTG9SCLojSAGufc
+e6RuPmGmZwvOKRNkLx1cuEEF6vwYX1aM1TiuWZoirh/sQHcFKd1wpgWZeI9SsqEm
+KD5NekfX7TSkVZxu9cbSPRuxQKhVuQ2LILmwlX1hk4oXSM5Mm9mA6AW7nStUXFDb
+0122zBE5ytJKgmuhH2yvdhs0qep2hXBM5RH6ZpHrYi3rEVUXeMuEe0KzLfPBhOfx
+HIwlOC+HXNaqf8a6wo3OcCXZkpC/v0E7AgMBAAGjggFdMIIBWTAJBgNVHRMEAjAA
+MC0GCWCGSAGG+EIBDQQgFh5FYXN5LVJTQSBHZW5lcmF0ZWQgQ2VydGlmaWNhdGUw
+HQYDVR0OBBYEFKUwTeqqA6ULSfId6/+vFVEhh816MIHHBgNVHSMEgb8wgbyAFGKS
+lsTqr9zYFSRYoTZ6xPC/tWc/oYGYpIGVMIGSMQswCQYDVQQGEwJNWDELMAkGA1UE
+CBMCTVgxDTALBgNVBAcTBENETVgxDzANBgNVBAoTBk1JTk9JUjEPMA0GA1UECxMG
+TUlOT0lSMRIwEAYDVQQDEwlNSU5PSVIgQ0ExEDAOBgNVBCkTB0Vhc3lSU0ExHzAd
+BgkqhkiG9w0BCQEWEG9hbW8xOUBnbWFpbC5jb22CCQCanZMfSNIVDTATBgNVHSUE
+DDAKBggrBgEFBQcDAjALBgNVHQ8EBAMCB4AwEgYDVR0RBAswCYIHY2xpZW50NTAN
+BgkqhkiG9w0BAQsFAAOCAQEAA5A5Zi+2S2ze8hgD4LcEhclEe6da7/78cbfgyFbH
+bYPgNjn6T/u5lTd2E1Zad4OcLssQu0CxDV1A6rGcjoLTu58AUgG4DSrhBzCnsrpi
+QxAfZ+SFawM1k4ky4aOrEPHgPuydtuli1mmwf0yrQ9BgpzI8ZoGF5fEN9ts8EaTV
+kBBJ7mrapPqak56R3rpguI63jQpEZz31aRhmrzpWIiGP0wubiOfB2vUuId/4HcR7
+Bl03va3vupPB8Hq+bY2/il8reMUessNBBUR823/mPwYRnkP7AkVjRWoZHZ1gdmCG
+0HfcqFUuK9Ate1TXAoxRkGriZhHFa1JLonQ8AhwB7Cn2KA==
+-----END CERTIFICATE-----
